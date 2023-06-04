@@ -2,7 +2,7 @@
 
 一款简洁专注于写作的 Gridea 博客主题，示例网站：https://blog.suweiru.com
 
-本项目基于 [Gridea-theme-one plus](https://github.com/fei0810/gridea-theme-oneplus) 修改，最原始的项目主题叫 one，但作者已经删库。故直接用自己的ID当主题名「suweiru」。
+本项目基于 [Gridea-theme-one plus](https://github.com/fei0810/gridea-theme-oneplus) 修改，最原始的项目主题叫 one，但作者已经删库。本想用one plus 做主题名，但前人已经用过，故先用自己的ID当主题名「suweiru」。
 
 ## 特点
 
