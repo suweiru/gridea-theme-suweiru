@@ -13,7 +13,7 @@ Gridea Theme suweiru
 - 将CDN库资源全部从国外CDN公共库转移为国内CDN公共库，大幅提升访问速度。目前是秒开，芜湖~
 - 修复了原主题的其他若干代码错误
 
-- 将评论的gitalk文件替换为了waline，如需评论功能，请在客户端内打开评论，然后去gitalk.ejs修改代码。
+- 将评论的gitalk文件替换为了Twikoo，如需评论功能，请在客户端内打开gitalk显示评论，然后在主题的自定义配置里填写Twikoo相关参数。 Twikoo架设请参考官方文档 https://twikoo.js.org/quick-start.html
 
 ## 安装方法
 
